@@ -1,1 +1,5 @@
-# Power-BI
+# Power-BI - Meu primeiro projeto
+### Colocando em prática o curso de Power BI pela Alura, criei um Dashboard, no qual montei uma base de dados, com informações coletadas sobre os vencedores do prêmio de melhor jogador do mundo, concedido pela FIFA. A partir do basse de dados criada, foi possível trazer, posteriormente, as informações em gráficos para a visualização do Power BI Visualization. Caso queiram acessar o link é: https://app.powerbi.com/view?r=eyJrIjoiNDM5Y2JiOTYtYzE2Mi00MDgyLTk0NzgtOGIxNjNhMWVlYjQ3IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
+
+# Power-BI - ALura
+#### No curso de exclência feita pela Alura, aprendi a lidar com a base de dados da Gatitos, e exportar ela para Power BI, ferramenta onde manipulamos, modelamos e tratamos os dados, para que os dados estivesse em perfeitas condições para o trabalho na visualização. Ainda no curso, tive uma pequena introdução às linguagens M e DAX, linguagens estas que são muito utilizadas para o tratamento dos dados. Ao término dos trabalhos, foi possível concluir o dashboard proposto inicialmente. O link para acessar o dashboard é: https://app.powerbi.com/view?r=eyJrIjoiZTUxYzUwODEtZDQ5OS00OWI4LWJmNDAtYjZkZWIzZWQzY2M3IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
